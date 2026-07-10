@@ -1,5 +1,10 @@
 # SEN-202-Assignment-Solutions
 
+## Problem
+Insecurity linked to community/campus crime (theft, assault, and worse) is
+under-reported due to the lack of a fast, low-friction, and anonymous
+reporting channel. SIM addresses this gap.
+
 ## Tech Stack
 Plain HTML, CSS, and JavaScript — no build step required. Data is stored
 client-side (browser localStorage) for this prototype.
